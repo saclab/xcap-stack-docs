@@ -41,9 +41,10 @@ The user interface is implemented using React.js.
 
 ## API
 
-An API **a**pplication **p**rogramming **i**nterface is a set of definitions and protocols for building and integrating application software.
+An API **A**pplication **p**rogramming **i**nterface is a set of definitions and protocols for building and integrating application software.
+**GraphQL** is an open-source data [query](https://en.wikipedia.org/wiki/Query_language "Query language") and [manipulation](https://en.wikipedia.org/wiki/Data_manipulation_language "Data manipulation language") language for [APIs](https://en.wikipedia.org/wiki/Application_programming_interface "Application programming interface"), and a runtime for fulfilling queries with existing data.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzNDI0MjkzLC0xNDE4NTg1OTIxLC0xNT
-Y5ODIxNDE0LC0xODIyNzQyMDM2LDc1MDc0MDE1MCwzMjM1MTA0
-NTYsNTI1MzI0Nzg1XX0=
+eyJoaXN0b3J5IjpbLTE4NjkzMDg0MjYsLTE0MTg1ODU5MjEsLT
+E1Njk4MjE0MTQsLTE4MjI3NDIwMzYsNzUwNzQwMTUwLDMyMzUx
+MDQ1Niw1MjUzMjQ3ODVdfQ==
 -->
