@@ -142,19 +142,10 @@ int2 --> int3
 end
 ```
 
-```mermaid
-graph LR
-int1["Module 1"]
-int2["Module 2"]
-int3["Module 3"]
-subgraph Interface 1
-int1 -->int2
-int2 --> int3
-end
-```
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODA5NDQ2LDU0NTA4ODM4Myw1NTM2Nj
-U2NjYsLTE2NjA4MDUzOTddfQ==
+eyJoaXN0b3J5IjpbOTQyNzg3OTMsNTQ1MDg4MzgzLDU1MzY2NT
+Y2NiwtMTY2MDgwNTM5N119
 -->
