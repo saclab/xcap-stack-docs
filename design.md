@@ -33,12 +33,10 @@ int2 --> int3
 end
 ```
 
-## Frontend App
+## Front-end framework
 
-This framework consists of multiple interfaces for each individual program in the crystallography process. 
-An interface can have multiple modules. Each interface is built of individual modules which are further comprised of sets of scripts and functions. The interfaces allow a set of i/p files and generates the output to the next interface in the pipeline.
-
+In general, a **front-end framework** is a scaffold for building the front end. It usually includes some way to structure files (for example, via components or a CSS preprocessor), make AJAX requests, style your components, and associate data with DOM elements.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwNzQwMTUwLDMyMzUxMDQ1Niw1MjUzMj
-Q3ODVdfQ==
+eyJoaXN0b3J5IjpbLTE3MDY5MzEyNjYsNzUwNzQwMTUwLDMyMz
+UxMDQ1Niw1MjUzMjQ3ODVdfQ==
 -->
