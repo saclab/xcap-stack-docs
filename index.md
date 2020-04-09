@@ -136,7 +136,18 @@ graph LR
 int1["Interface 1"]
 int2["Interface 2"]
 int3["Interface 3"]
-subgraph Session1
+subgraph Session 1
+int1 -->int2
+int2 --> int3
+end
+```
+
+```mermaid
+graph LR
+int1["Module 1"]
+int2["Module 2"]
+int3["Module 3"]
+subgraph Interface 1
 int1 -->int2
 int2 --> int3
 end
@@ -144,6 +155,6 @@ end
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1MDg4MzgzLDU1MzY2NTY2NiwtMTY2MD
-gwNTM5N119
+eyJoaXN0b3J5IjpbMTkyODA5NDQ2LDU0NTA4ODM4Myw1NTM2Nj
+U2NjYsLTE2NjA4MDUzOTddfQ==
 -->
