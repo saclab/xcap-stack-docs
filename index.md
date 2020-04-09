@@ -133,7 +133,7 @@ core --> Sessions
 ```
 ```mermaid
 graph LR
-int1["Interface 1 fa:fa-twitter"]
+int1["Interface 1"]
 int2["Interface 2"]
 int3["Interface 3"]
 subgraph Session1
@@ -144,6 +144,6 @@ end
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTM4MDMxOSw1NTM2NjU2NjYsLTE2Nj
-A4MDUzOTddfQ==
+eyJoaXN0b3J5IjpbNTQ1MDg4MzgzLDU1MzY2NTY2NiwtMTY2MD
+gwNTM5N119
 -->
