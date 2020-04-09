@@ -35,8 +35,8 @@ end
 
 ## Front-end framework
 
-In general, a **front-end framework** is a scaffold for building the front end. It usually includes some way to structure files (for example, via components or a CSS preprocessor), make AJAX requests, style your components, and associate data with DOM elements.
+In general, a **front-end framework** is a scaffold for building the front end. It usually includes some way to structure files
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY5MzEyNjYsNzUwNzQwMTUwLDMyMz
-UxMDQ1Niw1MjUzMjQ3ODVdfQ==
+eyJoaXN0b3J5IjpbMzkwOTIyNzcyLDc1MDc0MDE1MCwzMjM1MT
+A0NTYsNTI1MzI0Nzg1XX0=
 -->
