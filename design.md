@@ -41,8 +41,9 @@ The user interface is implemented using React.js.
 
 ## API
 
+An _**a**pplication  **p**rogram  **i**nterface_ (**API**) is a set of [routines](https://www.webopedia.com/TERM/R/routine.html), [protocols](https://www.webopedia.com/TERM/P/protocol.html), and tools for building [software applications](https://www.webopedia.com/TERM/A/application.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg1ODU5MjEsLTE1Njk4MjE0MTQsLT
-E4MjI3NDIwMzYsNzUwNzQwMTUwLDMyMzUxMDQ1Niw1MjUzMjQ3
-ODVdfQ==
+eyJoaXN0b3J5IjpbLTg1MzAxMzMwLC0xNDE4NTg1OTIxLC0xNT
+Y5ODIxNDE0LC0xODIyNzQyMDM2LDc1MDc0MDE1MCwzMjM1MTA0
+NTYsNTI1MzI0Nzg1XX0=
 -->
