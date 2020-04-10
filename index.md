@@ -4,7 +4,7 @@
 |--|--|
 | 1. | [Introduction and overview](/index.html)  |
 | 2. | [X-Ray Crystallography](/crystallography.html) |
-| 3. | [Design](/designDecisions.html) |
+| 3. | [Design](/design.html) |
 | 4. | [Contribute to the project](/contributing.html)|
 | 5. | [Development Guide for Crystallographers](/devlopmentGuideForCrystallographers.html) |
 | 6. | [Development Guide for Software Developers](/devlopmentGuideForSoftwareDevelopers.html)
@@ -146,6 +146,6 @@ end
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyNzg3OTMsNTQ1MDg4MzgzLDU1MzY2NT
-Y2NiwtMTY2MDgwNTM5N119
+eyJoaXN0b3J5IjpbMTcxMTQ3MjEzNCw5NDI3ODc5Myw1NDUwOD
+gzODMsNTUzNjY1NjY2LC0xNjYwODA1Mzk3XX0=
 -->
