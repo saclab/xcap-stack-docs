@@ -47,10 +47,11 @@ API - Application programming interface is a set of definitions and protocols fo
 ## XCAP.Core Daemon
 
 Daemons are processes that are often started when the system is bootstrapped and terminate only when the system is shut down.
-**XCAP.Core Daemon** stitches all the processes together while it runs in the background. It acts as a p process manager and manages the interfaces and sessions 
+**XCAP.Core Daemon** stitches all the processes together while it runs in the background. It acts as a p process manager and manages the interfaces and sessions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDExNDg1NSwtMTg4MDIzNDYxNiwtNj
-M0MzM5NTQyLDE4MTUyMTcwMTQsLTkxNTg0MTYzMywtNjAzMzUz
-Mjg2LC0xNDE4NTg1OTIxLC0xNTY5ODIxNDE0LC0xODIyNzQyMD
-M2LDc1MDc0MDE1MCwzMjM1MTA0NTYsNTI1MzI0Nzg1XX0=
+eyJoaXN0b3J5IjpbLTY5Mjg2OTQxNSwyMDcwMTE0ODU1LC0xOD
+gwMjM0NjE2LC02MzQzMzk1NDIsMTgxNTIxNzAxNCwtOTE1ODQx
+NjMzLC02MDMzNTMyODYsLTE0MTg1ODU5MjEsLTE1Njk4MjE0MT
+QsLTE4MjI3NDIwMzYsNzUwNzQwMTUwLDMyMzUxMDQ1Niw1MjUz
+MjQ3ODVdfQ==
 -->
